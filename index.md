@@ -1,4 +1,9 @@
-## Welcome To My Page
+## Welcome to My Blog
+
+[TryHackeMe Writeups](https://github.com/Pistachio-9/pistachio-9.github.io/edit/main/writeups.md)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Pistachio-9/pistachio-9.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
