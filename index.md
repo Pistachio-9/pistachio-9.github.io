@@ -1,6 +1,6 @@
 ## Welcome to My Blog
 
-[TryHackeMe Writeups](./writeups/index.html)
+[TryHackeMe Writeups](./writeups/index.md)
 
 
 
