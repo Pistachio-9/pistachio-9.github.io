@@ -1,6 +1,6 @@
 ## Welcome to My Blog
 
-[TryHackeMe Writeups](https://github.com/Pistachio-9/pistachio-9.github.io/edit/main/writeups.md)
+[TryHackeMe Writeups](./writeups.md)
 
 
 
