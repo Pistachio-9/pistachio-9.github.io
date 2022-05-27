@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "Welcome to Jekyll's step by step tutorial!"
+---
+
+
 ## Welcome to My Blog
 
 [TryHackeMe Writeups](./writeups/index.md)
