@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "Home Page"
-description: ""
 ---
 
 
